@@ -2,5 +2,5 @@
 
 | Syntax  | link                                                                               |
 | ------- | ------------------                                                                 |
-| class01 | [link](https://mohammed1994mosleh.github.io/readingnotes301class01)                                                                        |
-| class02 | [link](https://mohammed1994mosleh.github.io readingnotes301class02)                                                                        |
+| class01 | [link](https://mohammed1994mosleh.github.io/readingnotes301/class01)                                                                        |
+| class02 | [link](https://mohammed1994mosleh.github.io/readingnotes301/class02)                                                                        |
