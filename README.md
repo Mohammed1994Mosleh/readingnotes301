@@ -8,4 +8,7 @@
 | class04 | [link](https://mohammed1994mosleh.github.io/readingnotes301/class04)               |
 | class05 | [link](https://mohammed1994mosleh.github.io/readingnotes301/class05)               |
 | class06 | [link](https://mohammed1994mosleh.github.io/readingnotes301/class06)               |
+| class08 | [link](https://mohammed1994mosleh.github.io/readingnotes301/class08)               |
+
+
 
